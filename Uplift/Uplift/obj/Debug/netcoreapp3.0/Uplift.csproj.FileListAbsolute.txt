@@ -431,3 +431,4 @@ C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\bin\Debug\netcoreap
 C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.DataAccess.pdb
 C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Models.pdb
 C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\bin\Debug\netcoreapp3.0\Uplift.Utility.pdb
+C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
