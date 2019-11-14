@@ -13,11 +13,11 @@ namespace Uplift.DataAccess.Data.Repository
         {
             _dbContext = dbContext;
             Category = new CategoryRepository(_dbContext);
+            Frequency = new FrequencyRepository(_dbContext);
         }
-
         public ICategoryRepository Category { get; private set; }
 
-      
+        public IFrequencyRepository Frequency { get; private set; }
 
         public void Dispose()
         {
