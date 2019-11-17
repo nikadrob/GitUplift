@@ -30,7 +30,7 @@ namespace Uplift.DataAccess.Data.Repository
         }
 
         public IEnumerable<T> GetAll(Expression<Func<T, bool>> filter = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeProperties = null)
-        {
+                {
             IQueryable<T> query = _dbSet;
 
             if(filter != null)

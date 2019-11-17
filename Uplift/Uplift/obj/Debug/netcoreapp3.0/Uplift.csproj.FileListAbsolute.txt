@@ -871,3 +871,10 @@ C:\Users\sinisa\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcorea
 C:\Users\sinisa\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
 C:\Users\sinisa\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
 C:\Users\sinisa\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
+C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
+C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
+C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
+C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs
