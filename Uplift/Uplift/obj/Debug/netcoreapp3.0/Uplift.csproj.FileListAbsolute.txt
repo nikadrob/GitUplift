@@ -878,3 +878,5 @@ C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreap
 C:\Users\nikad\Source\Repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
 C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
 C:\Users\nikad\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs
+C:\Users\sinisa\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
+C:\Users\sinisa\source\repos\nikadrob\GitUplift\Uplift\Uplift\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs

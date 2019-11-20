@@ -10,7 +10,7 @@ using Uplift.DataAccess.Data;
 namespace Uplift.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20191115185648_Initial")]
+    [Migration("20191119092938_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

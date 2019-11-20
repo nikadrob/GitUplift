@@ -30,23 +30,24 @@ namespace Uplift.DataAccess.Data.Repository
         }
 
         public IEnumerable<T> GetAll(Expression<Func<T, bool>> filter = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeProperties = null)
-                {
+        {
             IQueryable<T> query = _dbSet;
 
-            if(filter != null)
+            if (filter != null)
             {
                 query = query.Where(filter);
             }
 
             if (includeProperties != null)
             {
-                foreach (var inclProp in includeProperties.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+                foreach (var includeProperty in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
-                    query.Include(inclProp);
+                    query = query.Include(includeProperty);
                 }
             }
 
-            if(orderBy != null)
+
+            if (orderBy != null)
             {
                 return orderBy(query).ToList();
             }
@@ -68,7 +69,7 @@ namespace Uplift.DataAccess.Data.Repository
                 foreach (var inclProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
                     query.Include(inclProp);
-                }   
+                }
             }
 
             return query.FirstOrDefault();

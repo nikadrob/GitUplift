@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikad\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {}
+    "C:\\Users\\sinisa\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikad\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+    "C:\\Users\\sinisa\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikad\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sinisa\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
         "projectName": "Uplift.Models",
-        "projectPath": "C:\\Users\\nikad\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
-        "packagesPath": "C:\\Users\\nikad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikad\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\obj\\",
+        "projectPath": "C:\\Users\\sinisa\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "packagesPath": "C:\\Users\\sinisa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinisa\\source\\repos\\nikadrob\\GitUplift\\Uplift\\Uplift.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nikad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sinisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
